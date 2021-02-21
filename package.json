@@ -1,0 +1,29 @@
+{
+  "name": "br.com.estechdevdesign.ilea",
+  "version": "1.0.0",
+  "description": "Sistema para sala. Modulo de BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "start:nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estechdevdesign/backend_ilea.git"
+  },
+  "keywords": [
+    "Cabelo",
+    "Beleza",
+    "Salao",
+    "Profissional"
+  ],
+  "author": "estechdevdesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estechdevdesign/backend_ilea/issues"
+  },
+  "homepage": "https://github.com/estechdevdesign/backend_ilea#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
